@@ -1,7 +1,7 @@
 # coupons_5.1
 Based on my observations regarding the acceptance of the bar coupons:
 1- Bar coupons are only the second from the bottom in terms of coupon types as a volume
-2- Bar coupons accepted rates are high for the ones that attend bars between 1-time and 3-times, along with gt8 and 4~8. People that haven't been to a Bar. Their rejection rates are very high, followed by less 1-time bar visitors.
+2- Bar coupons accepted rates are high for the ones that attend bars between 1-time and 3-times, along with gt8 and 4 and 8. People that haven't been to a Bar. Their rejection rates are very high, followed by less 1-time bar visitors.
 3- Total bar coupons accepted are 827 vs 1,190 rejected.
 4- between onetime to 3-times bar visitors have a 12.88% acceptance rate vs the never-been in a bar that has a 33.77% rejection rate.
 5- Bar coupon-accepted for individuals that have attended bars less than one and have accpeted 3 times or less coupons have the highest acceptance rate, 32.96%
